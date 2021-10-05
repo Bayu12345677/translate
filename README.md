@@ -17,4 +17,7 @@ ini adalah script translate bash
 > bash kamus.sh
 ```
 
+## tampilan nya
 ![polygon](https://github.com/Bayu12345677/translate/blob/main/Screenshot_20211005-111757.png)
+
+
