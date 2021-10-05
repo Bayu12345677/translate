@@ -12,6 +12,7 @@ ini adalah script translate bash
 > gem install lolcat
 > apt install git
 > pip install httpie
+> pkg install pv
 > git clone https://github.com/Bayu12345677/translate
 > cd translate
 > bash kamus.sh
