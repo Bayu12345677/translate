@@ -17,4 +17,4 @@ ini adalah script translate bash
 > bash kamus.sh
 ```
 
-![polygon](https://github.com/Bayu12345677/translate/blob/main/VID-20210821-WA0062.mp4)
+![polygon](https://github.com/Bayu12345677/translate/blob/main/Screenshot_20211005-111757.png)
